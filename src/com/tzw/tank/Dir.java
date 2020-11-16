@@ -1,0 +1,7 @@
+package com.tzw.tank;
+
+public enum Dir {
+
+    UP,DOWN,LEFT,RIGHT,UPANDLEFT,UPANDRIGHT,DOWNANDLEFT,DOWNANDRIGHT
+
+}
