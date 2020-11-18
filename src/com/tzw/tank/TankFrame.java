@@ -8,7 +8,7 @@ import java.awt.event.WindowEvent;
 
 public class TankFrame extends Frame {
 
-    Dir dir;
+    Dir dir=Dir.DOWN;
 
     int x = 200,y=200;
 
